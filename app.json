@@ -1,11 +1,11 @@
 {
     "name": "Jennie",
     "description": "Jennie project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
-    "logo": "https://avatars.githubusercontent.com/u/83164448?v=4",
+    "logo": "https://avatars.githubusercontent.com/u/87037967?v=4",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/aishwaryastenkasi/Jennie",
-    "website":   "https://t.me/farhan-dqz",
-    "success_url": "https://t.me/farhan-dqz",
+    "website":   "https://t.me/aishwaryastenkasi",
+    "success_url": "https://t.me/aiswaryastenkasi",
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
